@@ -1,7 +1,3 @@
 My name is Shermi
-<<<<<<< HEAD
 I'm from Kerala
-=======
-I'm from Kerala
->>>>>>> branch1
 This is Introduction to Devops Assignment 2
